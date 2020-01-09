@@ -9,4 +9,5 @@ int main()
 }
 
 //GiveFood
-givemoney
+//GiveMoney
+
